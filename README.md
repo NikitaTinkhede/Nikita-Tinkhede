@@ -1,3 +1,4 @@
 # Nikita-Tinkhede
 hello, it's my 1st profile on github.
-author:Nikita tinkhede
+<br>
+<ul>author:Nikita tinkhede</ul>
